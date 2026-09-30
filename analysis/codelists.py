@@ -32,8 +32,8 @@ learning_disability_codelist = codelist_from_csv(
 )
 doac_codes = codelist_from_csv(
     "codelists/opensafely-direct-acting-oral-anticoagulants-doac.csv",
-    code='id',
-    term="code",
+    column="code",
+    category_column="term",
 )
 mildfrail_codelist = codelist_from_csv(
     "codelists/nhsd-primary-care-domain-refsets-mildfrail_cod.csv",
