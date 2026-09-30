@@ -1,3 +1,22 @@
 {
-  "files": {}
+  "files": {
+    "nhsd-primary-care-domain-refsets-ethnall_cod.csv": {
+      "id": "nhsd-primary-care-domain-refsets/ethnall_cod/2e8c7c58",
+      "url": "https://www.opencodelists.org/codelist/nhsd-primary-care-domain-refsets/ethnall_cod/2e8c7c58/",
+      "downloaded_at": "2026-09-25 10:09:21.014661+00:00Z",
+      "sha": "54caf86f907726f76e1e99d0ba913960197c0fd1"
+    },
+    "opensafely-asthma-diagnosis-snomed.csv": {
+      "id": "opensafely/asthma-diagnosis-snomed/2f04182e",
+      "url": "https://www.opencodelists.org/codelist/opensafely/asthma-diagnosis-snomed/2f04182e/",
+      "downloaded_at": "2026-09-25 10:31:27.893902+00:00Z",
+      "sha": "884477b8c56a7e29ef1684d5a7ea3cfd6f75b566"
+    },
+    "opensafely-glycated-haemoglobin-hba1c-tests.csv": {
+      "id": "opensafely/glycated-haemoglobin-hba1c-tests/2ab11f20",
+      "url": "https://www.opencodelists.org/codelist/opensafely/glycated-haemoglobin-hba1c-tests/2ab11f20/",
+      "downloaded_at": "2026-09-25 12:26:37.192528+00:00Z",
+      "sha": "fb9a968b5644c14c570bf2b8708381600f4bd1f5"
+    }
+  }
 }
