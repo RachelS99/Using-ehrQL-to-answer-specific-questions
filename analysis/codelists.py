@@ -32,21 +32,20 @@ learning_disability_codelist = codelist_from_csv(
 )
 doac_codes = codelist_from_csv(
     "codelists/opensafely-direct-acting-oral-anticoagulants-doac.csv",
-    system="snomed",
-    column='id',
-    category_column="code",
+    code='id',
+    term="code",
 )
-learning_disability_codelist = codelist_from_csv(
+mildfrail_codelist = codelist_from_csv(
     "codelists/nhsd-primary-care-domain-refsets-mildfrail_cod.csv",
     column="code",
     category_column="term",
 )
-learning_disability_codelist = codelist_from_csv(
+modfrail_codelist = codelist_from_csv(
     "codelists/nhsd-primary-care-domain-refsets-modfrail_cod.csv",
     column="code",
     category_column="term",
 )
-learning_disability_codelist = codelist_from_csv(
+sevfrail_codelist = codelist_from_csv(
     "codelists/nhsd-primary-care-domain-refsets-sevfrail_cod.csv",
     column="code",
     category_column="term",
