@@ -1,5 +1,6 @@
 from ehrql import codelist_from_csv
 
+# for tutorials
 asthma_codelist = codelist_from_csv(
     "codelists/opensafely-asthma-diagnosis-snomed.csv",
     column="id",
@@ -15,6 +16,7 @@ hba1c_codelist = codelist_from_csv(
     column="code",
     category_column="term",
 )
+# for MEDSIP projects
 pain_symptoms_codelist = codelist_from_csv(
     "codelists/opensafely-symptoms-pain.csv",
     column="code",
@@ -47,6 +49,16 @@ modfrail_codelist = codelist_from_csv(
 )
 sevfrail_codelist = codelist_from_csv(
     "codelists/nhsd-primary-care-domain-refsets-sevfrail_cod.csv",
+    column="code",
+    category_column="term",
+)
+preg_codelist = codelist_from_csv(
+    "codelists/nhsd-primary-care-domain-refsets-preg_cod.csv",
+    column="code",
+    category_column="term",
+)
+valproate_codelist = codelist_from_csv(
+    "codelists/user-RachelS99-medsip_valproate.csv",
     column="code",
     category_column="term",
 )
