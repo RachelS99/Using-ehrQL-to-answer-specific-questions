@@ -1,3 +1,12 @@
 nhsd-primary-care-domain-refsets/ethnall_cod/2e8c7c58
 opensafely/asthma-diagnosis-snomed/2f04182e
 opensafely/glycated-haemoglobin-hba1c-tests/2ab11f20
+opensafely/symptoms-pain/71385a33
+user/RachelS99/learning_disability/72ee1e48
+user/RachelS99/falls/39871488
+opensafely/direct-acting-oral-anticoagulants-doac/3457dcee
+nhsd-primary-care-domain-refsets/mildfrail_cod/2ca06ff1
+nhsd-primary-care-domain-refsets/modfrail_cod/53eaed86
+nhsd-primary-care-domain-refsets/sevfrail_cod/0e938b16
+
+

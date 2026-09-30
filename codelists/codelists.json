@@ -17,6 +17,48 @@
       "url": "https://www.opencodelists.org/codelist/opensafely/glycated-haemoglobin-hba1c-tests/2ab11f20/",
       "downloaded_at": "2026-09-25 12:26:37.192528+00:00Z",
       "sha": "fb9a968b5644c14c570bf2b8708381600f4bd1f5"
+    },
+    "opensafely-symptoms-pain.csv": {
+      "id": "opensafely/symptoms-pain/71385a33",
+      "url": "https://www.opencodelists.org/codelist/opensafely/symptoms-pain/71385a33/",
+      "downloaded_at": "2026-09-30 11:51:36.483920+00:00Z",
+      "sha": "f10644780459fc727569c6217778f122f7d4a0dc"
+    },
+    "user-RachelS99-learning_disability.csv": {
+      "id": "user/RachelS99/learning_disability/72ee1e48",
+      "url": "https://www.opencodelists.org/codelist/user/RachelS99/learning_disability/72ee1e48/",
+      "downloaded_at": "2026-09-30 11:52:47.053726+00:00Z",
+      "sha": "7bbc25e682ea4e28eeeb7b1a179a732f02aa1d5f"
+    },
+    "user-RachelS99-falls.csv": {
+      "id": "user/RachelS99/falls/39871488",
+      "url": "https://www.opencodelists.org/codelist/user/RachelS99/falls/39871488/",
+      "downloaded_at": "2026-09-30 11:52:47.144298+00:00Z",
+      "sha": "941a6146efde05d3d083fa3940c9a78c2331156f"
+    },
+    "opensafely-direct-acting-oral-anticoagulants-doac.csv": {
+      "id": "opensafely/direct-acting-oral-anticoagulants-doac/3457dcee",
+      "url": "https://www.opencodelists.org/codelist/opensafely/direct-acting-oral-anticoagulants-doac/3457dcee/",
+      "downloaded_at": "2026-09-30 12:46:38.617409+00:00Z",
+      "sha": "1f9f661dca502af1b3ffbd1114d5735225a967fa"
+    },
+    "nhsd-primary-care-domain-refsets-mildfrail_cod.csv": {
+      "id": "nhsd-primary-care-domain-refsets/mildfrail_cod/2ca06ff1",
+      "url": "https://www.opencodelists.org/codelist/nhsd-primary-care-domain-refsets/mildfrail_cod/2ca06ff1/",
+      "downloaded_at": "2026-09-30 12:50:37.321350+00:00Z",
+      "sha": "3f0701ea20929f64c7c2d9fbd5d3877c396472ac"
+    },
+    "nhsd-primary-care-domain-refsets-modfrail_cod.csv": {
+      "id": "nhsd-primary-care-domain-refsets/modfrail_cod/53eaed86",
+      "url": "https://www.opencodelists.org/codelist/nhsd-primary-care-domain-refsets/modfrail_cod/53eaed86/",
+      "downloaded_at": "2026-09-30 12:50:37.420331+00:00Z",
+      "sha": "bb2d25afc31413f5bfc0e417d6ef81615c63961a"
+    },
+    "nhsd-primary-care-domain-refsets-sevfrail_cod.csv": {
+      "id": "nhsd-primary-care-domain-refsets/sevfrail_cod/0e938b16",
+      "url": "https://www.opencodelists.org/codelist/nhsd-primary-care-domain-refsets/sevfrail_cod/0e938b16/",
+      "downloaded_at": "2026-09-30 12:50:37.551979+00:00Z",
+      "sha": "264ac46a46f185adf2d8068efc0f2eaab4715d72"
     }
   }
 }
