@@ -59,6 +59,12 @@
       "url": "https://www.opencodelists.org/codelist/nhsd-primary-care-domain-refsets/sevfrail_cod/0e938b16/",
       "downloaded_at": "2026-09-30 12:50:37.551979+00:00Z",
       "sha": "264ac46a46f185adf2d8068efc0f2eaab4715d72"
+    },
+    "openprescribing-all-opioids.csv": {
+      "id": "openprescribing/all-opioids/33026057",
+      "url": "https://www.opencodelists.org/codelist/openprescribing/all-opioids/33026057/",
+      "downloaded_at": "2026-09-30 12:59:24.979254+00:00Z",
+      "sha": "55f07b83d9d48db46d2ec887e5c57a36ce6e44cc"
     }
   }
 }
